@@ -1,10 +1,6 @@
-# SIH2024
+# SIH-2024
 
-# Description
-
-GOD’S EYE – AI-Powered Oil Spill Detection
-
-## Project Overview
+## Project (AI-Powered Oil Spill Detection) Overview
 
 This project focuses on building an AI-driven system for detecting oil spills in marine environments by combining vessel tracking data with satellite imagery. It integrates anomaly detection on AIS (Automatic Identification System) data with deep learning–based image segmentation to identify potential spill events accurately and in near real time.
 
@@ -37,6 +33,3 @@ This project focuses on building an AI-driven system for detecting oil spills in
 ## Impact
 
 By automating oil spill detection and integrating multiple data sources, this system reduces response time, minimizes environmental damage, and enhances decision-making for maritime authorities.
-
-
-For more info - Refer to "oil spill using AIS.pdf
